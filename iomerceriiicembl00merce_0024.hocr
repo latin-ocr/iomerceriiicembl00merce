@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./iomerceriiicembl00merce_0024.png"; bbox 0 0 1971 2713; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 179 4 1847 1573">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 179 4 1847 1573">
+     <span class='ocr_line' id='line_1_1' title="bbox 179 4 1847 1573; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 179 4 1847 1573; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 448 1783 1667 1947">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 448 1783 1667 1947">
+     <span class='ocr_line' id='line_1_2' title="bbox 448 1783 1667 1874; baseline 0.002 -27"><span class='ocrx_word' id='word_1_2' title='bbox 448 1783 769 1874; x_wconf 66' lang='lat' dir='ltr'>uno</span> <span class='ocrx_word' id='word_1_3' title='bbox 866 1787 1213 1853; x_wconf 80' lang='lat' dir='ltr'>CERTA</span> <span class='ocrx_word' id='word_1_4' title='bbox 1314 1786 1667 1855; x_wconf 80' lang='lat' dir='ltr'>MANET</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 661 1883 1301 1947; baseline 0 -3"><span class='ocrx_word' id='word_1_5' title='bbox 661 1895 690 1914; x_wconf 50' lang='grc' dir='ltr'>υ</span> <span class='ocrx_word' id='word_1_6' title='bbox 839 1883 1301 1947; x_wconf 68' lang='lat' dir='ltr'>SCELERL</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 607 2215 1882 2235">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 607 2215 1882 2235">
+     <span class='ocr_line' id='line_1_4' title="bbox 607 2215 1882 2235; baseline 0 478"><span class='ocrx_word' id='word_1_7' title='bbox 607 2215 1882 2235; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
